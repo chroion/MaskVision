@@ -30,39 +30,24 @@ Below is an example directory layout after downloading the dataset:
 photomask_dataset/
 ├── train/
 │   └── good/
-│        ├── 0001.png  
-
-│        ├── 0002.png  
-
-│        └── ...    
-
-├── test/  
-
-│   ├── defect/  
-
-│   │   ├── 0001.png  
-
-│   │   ├── 0002.png  
-
-│   │   └── ...  
-
-│   └── ground_truth/  
-
-│   │    ├── 0001_mask.png  
-
-│   │    ├── 0002_mask.png   
-
-│   │    └── ...  
-
-│   └── good/  
-
-│         ├── 1412.png  
-
-│         ├── 1413.png   
-
-│         └── ...   
-
+│       ├── 0001.png
+│       ├── 0002.png
+│       └── ...
+├── test/
+│   ├── defect/
+│   │   ├── 0001.png
+│   │   ├── 0002.png
+│   │   └── ...
+│   ├── ground_truth/
+│   │   ├── 0001_mask.png
+│   │   ├── 0002_mask.png
+│   │   └── ...
+│   └── good/
+│       ├── 1412.png
+│       ├── 1413.png
+│       └── ...
 └── README.md
+
 
 - **train/good/**: Normal patches used for training.
 - **test/good/**: Normal patches for testing.
