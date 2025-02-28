@@ -33,20 +33,35 @@ photomask_dataset/
 │        ├── 0001.png  
 
 │        ├── 0002.png  
-│        └── ...  
-├── test/
-│   ├── defect/
-│   │   ├── 0001.png
-│   │   ├── 0002.png
-│   │   └── ...
-│   └── ground_truth/
-│   │    ├── 0001_mask.png
-│   │    ├── 0002_mask.png 
-│   │    └── ...
-│   └── good/
-│         ├── 1412.png
-│         ├── 1413.png 
-│         └── ... 
+
+│        └── ...    
+
+├── test/  
+
+│   ├── defect/  
+
+│   │   ├── 0001.png  
+
+│   │   ├── 0002.png  
+
+│   │   └── ...  
+
+│   └── ground_truth/  
+
+│   │    ├── 0001_mask.png  
+
+│   │    ├── 0002_mask.png   
+
+│   │    └── ...  
+
+│   └── good/  
+
+│         ├── 1412.png  
+
+│         ├── 1413.png   
+
+│         └── ...   
+
 └── README.md
 
 - **train/good/**: Normal patches used for training.
