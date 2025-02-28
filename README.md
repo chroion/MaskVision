@@ -52,7 +52,7 @@ Below is an example directory layout after downloading the dataset:
 - **train/good/**: Normal patches used for training.
 - **test/good/**: Normal patches for testing.
 - **test/defect/**: Defect patches for testing and evaluation.
-- **test/ground_truth/**: Ground truth image for testing and evaluation.
+- **ground_truth/defect/**: Ground truth image for testing and evaluation.
 
 The exact directory structure may vary depending on how you choose to organize normal and defect images.
 
