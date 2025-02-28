@@ -27,6 +27,20 @@ In semiconductor lithography, photomasks serve as templates to transfer intricat
 
 Below is an example directory layout after downloading the dataset:
 
+    ├── bottle
+    │   ├── ground_truth
+    │   │   ├── broken_large
+    │   │   ├── broken_small
+    │   │   └── contamination
+    │   ├── test
+    │   │   ├── broken_large
+    │   │   ├── broken_small
+    │   │   ├── contamination
+    │   │   └── good
+    │   └── train
+    │       └── good
+    ...
+
 photomask_dataset/
 ├── train/
 │   └── good/
