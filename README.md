@@ -43,7 +43,7 @@ Below is an example directory layout after downloading the dataset:
     │       ├── 1413.png
     │       └── ...
     ├── ground_truth/
-    │   ├── defect/
+    │   └── defect/
     │       ├── 0001_mask.png
     │       ├── 0002_mask.png
     │       └── ...
