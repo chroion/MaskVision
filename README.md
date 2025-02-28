@@ -44,9 +44,9 @@ Below is an example directory layout after downloading the dataset:
     │       └── ...
     ├── ground_truth/
     │   ├── defect/
-    │   │   ├── 0001_mask.png
-    │   │   ├── 0002_mask.png
-    │   │   └── ...
+    │       ├── 0001_mask.png
+    │       ├── 0002_mask.png
+    │       └── ...
     └── README.md
 
 - **train/good/**: Normal patches used for training.
