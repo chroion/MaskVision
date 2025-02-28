@@ -70,7 +70,7 @@ Due to the **large size** of the dataset, we provide two download options:
 **Download Links**
 
 - Full Dataset Link (TBD)
-- Sample Subset Link (TBD)
+- Sample Subset Link [Link](https://www.kaggle.com/datasets/chroion/photomask-subset/data?select=test)
 
 ## Citation
 
