@@ -60,7 +60,7 @@ The exact directory structure may vary depending on how you choose to organize n
 Due to the **large size** of the dataset, we provide two download options:
 
 1. **Full Dataset:**
-   - High-resolution images (or patches) suitable for comprehensive training and evaluation.
+   - High-resolution image patches suitable for comprehensive training and evaluation.
    - Recommended for researchers focusing on large-scale industrial scenarios.
 2. **Sample Subset:**
    - A smaller collection of representative images (both normal and defect) for quick prototyping or demonstration.
