@@ -17,7 +17,7 @@ In semiconductor lithography, photomasks serve as templates to transfer intricat
 
 **Key Features:**
 
-- **High Resolution:** Raw images are captured at up to 172,000×249,000 pixels, then subdivided into smaller patches (e.g., 128×128) for manageability.
+- **High Resolution:** Raw images are captured at up to 172,000×249,000 pixels, then subdivided into smaller patches for manageability.
 - **Diverse Defect Types:** Ranging from dust, scratches, and contamination to subtle line-width deviations.
 - **Industrial-Scale Complexity:** Reflects real-world manufacturing challenges, such as repetitive patterns and large data volumes.
 
